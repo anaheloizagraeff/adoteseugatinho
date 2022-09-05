@@ -1,13 +1,16 @@
 h1{
-  text-align: center; font-size: 100px; color:#fabdbd
+  text-align: center; font-size: 100px; color:#fc3d73
 }
  p {
    font-size: 30px
  }
 #frase01{
- font-size: 40pX
+ font-size: 60pX
 }
 
 #gtn{
   width: 30%
+}
+body{
+  background-color:#d8d8d8
 }
