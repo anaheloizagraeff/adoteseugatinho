@@ -2,10 +2,11 @@ h1{
   text-align: center; font-size: 100px; color:#fc3d73
 }
  p {
-   font-size: 30px
+   font-size: 30px;
+   text-align: center;
  }
 #frase01{
- font-size: 60pX
+ font-size: 65pX
 }
 
 #gtn{
@@ -31,7 +32,17 @@ body{
 }
 
 .cat{
-  color: pink;
+  color: #d60257;
   text-align: center;
   font-size: 400%
+}
+.redes{
+  color: green;
+  text-align: center;
+  font-size: 200%
+}
+.redes02{
+  color: #f07877;
+  text-align: center;
+  font-size: 200%
 }
