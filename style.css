@@ -15,20 +15,31 @@ h1{
 body{
   background-color:#d8d8d8
 }
+
 #gatinho02{
-  width: 32%
+  width: 32%;
+  border: 10px solid #000000;
+border-radius: 10px;
 }
 #gatinho08{
-  width: 32%
+  width: 32%;
+  border: 10px solid #000000;
+border-radius: 10px;
 }
 #gatinho09{
-  width: 32%
+  width: 32%;
+  border: 10px solid #000000;
+border-radius: 10px;
 }
 #gatinho03{
-  width: 27%
+  width: 27%;
+  border: 10px solid #000000;
+border-radius: 10px;
 }
 #gatinho11{
-  width: 32%
+  width: 32%;
+  border: 10px solid #000000;
+border-radius: 10px;
 }
 
 .cat{
